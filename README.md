@@ -53,6 +53,9 @@ jeg først fik meget bedre søgeresultater til en mere konkret løsning.
 
 
 
+## Search Log
+
+Se PDF
 
 
 
