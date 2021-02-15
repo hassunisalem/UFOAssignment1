@@ -25,7 +25,7 @@ og benytte mig af PIL library'et
 
 Arbejder i filen: Decode.py
 
-### PIL er prøvet af men sidder fast i forskellige fejl, jeg vil prøve at finde et andet
+ PIL er prøvet af men sidder fast i forskellige fejl, jeg vil prøve at finde et andet
  pixel iteration eksempel at arbejde med.
 
 
