@@ -12,11 +12,13 @@ Least Significant Bits metoden for at skjule data, for at få mig et overblik ov
 
 
 
+
 ### 11.38 12/02/2021
 
 
 Efter at have set et par eksempler på nettet har jeg beslutttet at kode i python 
 og benytte mig af PIL library'et
+
 
 
 
@@ -31,7 +33,8 @@ Arbejder i filen: Decode.py
 
 
 
-18.41 12/02/2021
+
+### 18.41 12/02/2021
 
 ### Efter at have læst problemformulfering mere indgående har jeg fundet mange bedre eksempler på hvordan opgaven skal løses
 det at reverse-engineer LSB-algoritmen og dele de forskllige steps in i mindre opgaver har helt klart hjulpet med bedre seachquires
